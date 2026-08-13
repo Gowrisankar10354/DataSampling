@@ -1,5 +1,5 @@
 /*==============================================================================
-  lattapanda_adc.ino  —  v3.0  Block / trigger AC power-line acquisition firmware
+  arduino_adc.ino  —  v3.0  Block / trigger AC power-line acquisition firmware
   Target : LattePanda 3 Delta on-board co-processor = Arduino Leonardo
            (ATmega32U4, F_CPU = 16 MHz)  ->  USB-CDC to the Intel x86 host
 
